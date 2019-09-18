@@ -2,11 +2,11 @@
 title: Karanpal Singh
 description: UBC MDS 2019-20
 # baseurl: "" # the subpath of your site, e.g. /blog
- url: "http://singh-karanpal.github.io/MyBlog3" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+url: "http://singh-karanpal.github.io/MyBlog3" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Karanpal Singh
-#user_description: I'm a nomad Software Engineer, always searching for the next challenge; no task is too scary nor too difficult. Lately I have been immersed in the <b>crypto-world</b> working for Radix, a London based startup trying to create the next massive scalable DLT.. I'm one of the two guys behind all the JS related stuff. Visit my blog here":" <a href="https://mauriciourraco.com" target="_blank">https://mauriciourraco.com</a>
+user_description: I'm a UBC MDS Grad 2019-20 Cohort
 user_title: MDS Grad
 email: karanpal.singh@alumni.ubc.ca
 # twitter_username: lorem_ipsum
